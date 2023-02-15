@@ -7,6 +7,12 @@ then search for a word from the file using a search box.
 
 - [@AvB2002](https://www.github.com/AvB2002)
 
+## Language
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-javascript%20-green?style=for-the-badge&logo=javascript&logoColor=white)
+
+
 ## Sample Screenshots
 
 ![Sample Output #1](https://github.com/AvB2002/boogle-search-engine/blob/master/screenshots/1.PNG)
